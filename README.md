@@ -1,1 +1,1 @@
-# DSA-PayMoney
+# FOPJava_LabAlgo2-DSA-PayMoney
